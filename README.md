@@ -16,10 +16,10 @@
 <table>
 <tr>
 <td width="35%">
-<img src="./images/sugar-1.png" width="100%">
+<img src="https://media.tenor.com/cLdU9fOjTWIAAAAi/eternal-sugar-cookie-cookie-run-kingdom.gif" width="100%">
 </td>
 <td width="65%">
-<img src="./images/sugar-2.png" width="100%">
+<img src="https://media.tenor.com/m9-1Mt9TqsEAAAAC/cookie-run-cookie-run-kingdom.gif" width="100%">
 </td>
 </tr>
 <tr>
