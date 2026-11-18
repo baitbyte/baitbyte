@@ -8,7 +8,7 @@
 
 <img src="https://media.tenor.com/NBj-GcEPtfYAAAAC/bloomingink-locket.gif" width="100">
 
-<h2>୨୧ ETERNAL SUGAR COOKIE ୨୧</h2>
+<h2>୨୧  ୨୧</h2>
 
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
