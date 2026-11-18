@@ -24,15 +24,15 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="./images/sugar-gif.gif" width="65%">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/7/72/Profile_user_rich_package_001.png" width="65%">
 </td>
 </tr>
 <tr>
 <td width="55%">
-<img src="./images/sugar-3.png" width="100%">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/7/70/Eternal_sugar_head.png" width="100%">
 </td>
 <td width="45%">
-<img src="./images/sugar-4.png" width="100%">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/2/2d/Cotton_candy_angel.png" width="100%">
 </td>
 </tr>
 </table>
@@ -40,29 +40,29 @@
 ✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
 
 <!-- SECOND COLLAGE -->
-<img src="./images/sugar-5.png" width="48%">
-<img src="./images/sugar-6.png" width="48%">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/6/6c/Eternal_sugar_opening_asset.png" width="48%">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/7/70/Sugarofhappiness_serious.png" width="48%">
 
 <br>
 
-<img src="./images/sugar-gif-2.gif" width="180">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/e/e5/Suspiciously_caring_cake_hound.png" width="180">
 
 <br>
 
 ୨୧ ─────────────── ୨୧
 
 <!-- LITTLE DECORATIONS -->
-<img src="./images/sugar-icon-2.png" width="65">
-<img src="./images/sugar-icon-3.png" width="65">
-<img src="./images/sugar-icon-4.png" width="65">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/4/44/Eternal_sugar_3rd_anni_site_card.png" width="65">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/2/2b/Eternal_Sugar_LINE_sticker.png" width="65">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/0/01/Bringer_of_happiness_statue.png" width="65">
 
 <br>
 
-<sub>♡ forever in the garden of sweet delights ♡</sub>
+<sub>♡ ♡</sub>
 
 <br>
 
-<img src="./images/footer.png" width="100%">
+<img src="https://static.wikia.nocookie.net/cookierunkingdom/images/6/6f/Eternal_sugar_gacha_background.png" width="100%">
 
 </div>
 
