@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./images/eternal-sugar-icon.png" width="100">
+<img src="https://media.tenor.com/NBj-GcEPtfYAAAAC/bloomingink-locket.gif" width="100">
 
 <h2>୨୧ ETERNAL SUGAR COOKIE ୨୧</h2>
 
